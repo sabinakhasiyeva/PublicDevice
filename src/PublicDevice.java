@@ -1,5 +1,4 @@
-// PublicDevice class
-public class PublicDevice {
+abstract class PublicDevice {
     private String name;
     private String location;
     private boolean isAvailable;
